@@ -1,0 +1,4 @@
+1.anaconda+vscode
+2.python3.8.5
+3.lilypond2.22.1
+4.anaconda pip install(python-opencv,numpy)
